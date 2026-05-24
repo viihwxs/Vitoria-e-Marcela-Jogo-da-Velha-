@@ -1,4 +1,4 @@
-//Vitoria e Marcela 
+//Vitoria Luisa Moreira Amaral e Marcela Reis 
 programa
 {
 	
